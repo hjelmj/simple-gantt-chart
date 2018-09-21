@@ -1,0 +1,12 @@
+# backup files
+
+*.*~
+*.bak
+
+**/*.*~
+**/*.bak
+
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints
+**/.ipynb_checkpoints
